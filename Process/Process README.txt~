@@ -1,0 +1,4 @@
+My original goal was twofold, first I wanted to try to adhere reasonably to basic retinal variables as I could.  One of my issues in designing these sorts of visualizations is that I typically over-engineer to the detriment of readability.
+Secondly, I wanted to try to contextualize the data.  I certainly care less about a quake than I do the human toll.  To that end, I looked for hours for a database that would give you a lat/long->population&density metric.  I found several interesting databases at the UN but in the end, none were granular enough to merit inclusion.
+
+
